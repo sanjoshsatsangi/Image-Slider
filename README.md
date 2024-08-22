@@ -23,5 +23,3 @@ This project is an automatic image slider with manual navigation controls, built
 - **CSS**: Styling, including animations and hover effects.
 - **JavaScript**: Logic for the automatic and manual image sliding.
 
-## Project Structure
-
