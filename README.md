@@ -12,10 +12,13 @@ This project is an automatic image slider with manual navigation controls, built
 - **Hover Effects**: The arrow buttons change size and opacity when hovered over.
 - **Responsive Design**: The slider adapts well to different screen sizes.
 
-## Demo
+## Screenshots 📸
 
 ![Image Slider Demo](https://github.com/user-attachments/assets/c5f4132f-dfa9-4f3b-97cc-5d6fb5021784)
 
+## Live Demo 🌐
+
+Check out the live demo here: [Music Player on Netlify](https://sanjoshimageslider.netlify.app/)
 
 ## Technologies Used
 
