@@ -18,7 +18,7 @@ This project is an automatic image slider with manual navigation controls, built
 
 ## Live Demo 🌐
 
-Check out the live demo here: [Music Player on Netlify](https://sanjoshimageslider.netlify.app/)
+Check out the live demo here: [Image Slider on Netlify](https://sanjoshimageslider.netlify.app/)
 
 ## Technologies Used
 
